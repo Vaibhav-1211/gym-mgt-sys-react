@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gym-mgt-sys-react/static/css/main.41181da4.css",
+    "main.js": "/gym-mgt-sys-react/static/js/main.ebca797e.js",
+    "static/media/hero_image.png": "/gym-mgt-sys-react/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/gym-mgt-sys-react/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/gym-mgt-sys-react/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/gym-mgt-sys-react/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/t-image3.jpg": "/gym-mgt-sys-react/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/gym-mgt-sys-react/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/gym-mgt-sys-react/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/gym-mgt-sys-react/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/hero_image_back.png": "/gym-mgt-sys-react/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "static/media/youtube.png": "/gym-mgt-sys-react/static/media/youtube.638d8cef99fd250eef46.png",
+    "index.html": "/gym-mgt-sys-react/index.html",
+    "main.41181da4.css.map": "/gym-mgt-sys-react/static/css/main.41181da4.css.map",
+    "main.ebca797e.js.map": "/gym-mgt-sys-react/static/js/main.ebca797e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41181da4.css",
+    "static/js/main.ebca797e.js"
+  ]
+}
